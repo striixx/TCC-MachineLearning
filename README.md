@@ -31,5 +31,5 @@ O modelo **Random Forest** apresentou o melhor desempenho para a detecção de f
 4. Execute o pipeline: `python src/main.py`
 
 ## 👨‍🎓 Autor
-**Vitor** - Aluno de Engenharia/Ciência da Computação.
+**Vitor Marcelo Knop** - Aluno de Sistemas de Informação.
 Orientador: Prof. Flavio.
