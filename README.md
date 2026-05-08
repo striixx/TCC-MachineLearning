@@ -17,12 +17,17 @@ O modelo **Random Forest** apresentou o melhor desempenho para a detecção de f
 - **F1-Score:** ~0.84
 - **ROC AUC:** ~0.98
 
+##🖥️ Aplicação Web
+
+O projeto também conta com uma aplicação web desenvolvida em Flask para simulação e teste de transações, permitindo ao usuário verificar a probabilidade de fraude em tempo real.
+
 ## 📁 Estrutura do Projeto
 - `src/`: Scripts de código (carregamento, treino, avaliação, XAI).
 - `data/`: Pasta para o dataset (não incluído no GitHub por tamanho).
 - `models/`: Modelos treinados salvos em formato `.pkl`.
 - `reports/figures/`: Gráficos gerados automaticamente pelo pipeline.
 - `requirements.txt`: Lista de bibliotecas necessárias.
+- `app.py`: Aplicativo web desenvolvido para testes dos dados e utilização do usuário.
 
 ## 🛠️ Como Rodar
 1. Clone o repositório: `git clone https://github.com/SEU_USUARIO/deteccao-fraude-cartao-credito.git`
